@@ -2,6 +2,11 @@
 It is needless to be a big topic, even 1 minute reading is great!
 
 
+# 04-30-2024
+[Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
+Looks like it is a big topic that I need to put much time here. Quickly went through this article is barely helpful.
+https://www.sqlite.org/opcode.html
+
 # 04-29-2024
 [How an empty S3 bucket can make your AWS bill explode
 ](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)

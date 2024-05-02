@@ -1,6 +1,9 @@
 # What-I-Learned-Today
 It is needless to be a big topic, even 1 minute reading is great!
 
+# 05-01-2024
+I start to have hands-on experience about Kubernetes, hpa is an interesting part about auto scaling. During my work, our service is not timely scaled up based on the simple metric of CPU utilization, but need to find a more comprehensive metric such as the combination of the metric of concurrency of requests with others.
+https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
 
 # 04-30-2024
 [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
